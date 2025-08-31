@@ -5,17 +5,17 @@ export const theme = {
     colors: {
       // Principais
 
-      primary: "#058cd7",
-      buttonColor: "#058cd7",
-      minititleDark: "#058cd7", //bg minitag de seções claras
-      minititle: "#058cd7", //bg minitag de seções escuras
+      primary: "#E4E7E6",
+      buttonColor: "#E4E7E6",
+      minititleDark: "#E4E7E6", //bg minitag de seções claras
+      minititle: "#E4E7E6", //bg minitag de seções escuras
 
       secondary: "#000000",
 
       // Fundos de Seção
 
       bgSectionLight: "#FFFFFF",
-      bgSectionDark: "#990000",
+      bgSectionDark: "#273445",
       bgSectionOpacityLight: "#F7F7F7",
       bgFixedLight: "#E8E8E8",
       bgSectionOpacityDark: "#111111",
@@ -29,10 +29,10 @@ export const theme = {
       // Botões e Links
 
       links: "#0189BB",
-      iconButtons: "#fff",
-      labelButtons: "#fff",
-      minititleLightLabel: "#fff", //label das minitag de seções claras
-      minititleDarkLabel: "#fff", //label minitag de seções escuras
+      iconButtons: "#000",
+      labelButtons: "#000",
+      minititleLightLabel: "#000", //label das minitag de seções claras
+      minititleDarkLabel: "#000", //label minitag de seções escuras
 
       // Sombras
 
@@ -53,11 +53,12 @@ export const theme = {
       "custom-opacityButton": "-5px 5px 0px", // 30% de opacidade no Botão
     },
     fontFamily: {
-      mainFont: ["Merriweather", "sans-serif"],
+      mainFont: ["Caviar Dreams", "sans-serif"],
+      secondFont: ["Caviar Dreams", "sans-serif"],
       // mainFont: ["Poppins", "sans-serif"],
-      secondFont: ["Merriweather", "sans-serif"],
-      league: ["League Gothic"],
-      barlow: ["Barlow Condensed"],
+      // secondFont: ["Merriweather", "sans-serif"],
+      // league: ["League Gothic"],
+      // barlow: ["Barlow Condensed"],
     },
     fontSize: {
       paragraph1: "0.625rem",

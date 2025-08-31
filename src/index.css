@@ -27,6 +27,34 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Caviar Dreams";
+  src: url("/src/assets/fonts/CaviarDreams.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Caviar Dreams";
+  src: url("/src/assets/fonts/CaviarDreams_Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Caviar Dreams";
+  src: url("/src/assets/fonts/CaviarDreams_Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Caviar Dreams";
+  src: url("/src/assets/fonts/CaviarDreams_BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -197,4 +225,3 @@
   height: 50px !important;
   flex-shrink: 0 !important; /* Impede que o botão diminua se o tooltip aumentar */
 }
-
