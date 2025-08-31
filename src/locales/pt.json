@@ -26,33 +26,33 @@
     }
   },
   "features": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "ÁREAS DE ATUAÇÃO",
+    "title": "Atendemos nas principais áreas do Direito",
+    "subtitle": "Soluções jurídicas sob medida para proteger seus direitos.",
     "card1": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Civil",
+      "subtitle": "Proteção em contratos, bens e relações cotidianas. ",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card2": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Trabalhista",
+      "subtitle": "Amparo jurídico em direitos e deveres do trabalho.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Direito Previdenciário",
+      "subtitle": "Apoio em benefícios, aposentadorias e revisões legais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
+      "title": "Consultoria Jurídica",
+      "subtitle": "Orientação clara para decisões seguras no dia a dia.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
@@ -83,19 +83,19 @@
     "imagem": {
       "alt": "imagem about"
     },
-    "miniTag": "A_Definir",
-    "title": "A_Definir",
-    "subtitle": "A_Definir",
+    "miniTag": "QUEM É HUGO BRANCO ADVOCACIA",
+    "title": "Minha trajetória",
+    "subtitle": "Compromisso com segurança, atenção constante e soluções jurídicas eficazes.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A_Definir",
-    "modal": "a_Definir",
+    "paragraph": "Um escritório moderno, pensado para oferecer estratégias seguras e eficazes em cada causa, sempre valorizando a confiança de quem nos procura.",
+    "modal": "Um escritório moderno, pensado para oferecer estratégias seguras e eficazes em cada causa, sempre valorizando a confiança de quem nos procura. <br/><br/> Nossa comunicação é ativa e atenciosa, para reduzir a ansiedade de clientes que enfrentam situações delicadas e precisam de orientação firme. <br/><br/> Aqui, cada pessoa é recebida com respeito e cuidado. Nossa prioridade é transformar desgastes em soluções jurídicas que devolvam a tranquilidade. <br/><br/>",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
-      "miniTag": "A_Definir",
-      "title": "A_Definir",
-      "subtitle": "A_Definir",
-      "labelInstagram": "A_Definir",
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "subtitle": "Aproveite nossas redes sociais para mantermos contato e ficar por dentro de atualizações importantes no mundo do direito.",
+      "labelInstagram": "Siga-me no Instagram",
       "labelFacebook": "A_Definir",
       "labelLinkedin": "A_Definir",
       "labelX": "A_Definir"
