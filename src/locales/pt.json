@@ -15,15 +15,14 @@
     },
     "ctaButtonText": "Contato",
     "ctaButtonTextResponsive": "Contato"
-    
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADO TRABALHISTA & PREVIDENCIÁRIO",
+    "title": "E se a sua causa tivesse <span class=\"text-primary font-bold\">mais voz?</span>",
+    "subtitle": "A justiça não espera — descubra como uma defesa estratégica pode mudar o rumo da sua história.",
+    "ctaButtonText": "Quero saber como",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento online para todo Brasil."
     }
   },
   "features": {
@@ -88,7 +87,7 @@
     "title": "A_Definir",
     "subtitle": "A_Definir",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph":"A_Definir",
+    "paragraph": "A_Definir",
     "modal": "a_Definir",
     "ctaButtonAriaLabel": "",
     "ctaButtonText": "Entre em contato",
