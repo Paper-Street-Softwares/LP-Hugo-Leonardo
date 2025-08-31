@@ -49,7 +49,9 @@ export default function AboutInstagram({ socialPrint, colorMode }) {
           <ParagraphsAboutSocial colorMode={colorMode} />
           <div>
             <RedesSociais
-              instagram={true}
+              instagram={true
+                
+              }
               facebook={false}
               x={false}
               tiktok={false}
