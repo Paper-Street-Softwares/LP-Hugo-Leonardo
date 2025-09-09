@@ -71,7 +71,13 @@ export default function FeaturesWithIcons({ colorMode }) {
             <MotionDivDownToUp>
               <IconFeatureCard
                 icon={content.texts.features.card3.icon}
-                title={t("features.card3.title")}
+                title={
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: t("features.card3.title"),
+                    }}
+                  />
+                }
                 paragraph={t("features.card3.subtitle")}
                 className={`tablet1:mb-[16px] desktop1:mb-0 desktop2:mb-[46px] ${textClass}`}
                 colorMode={colorMode}
