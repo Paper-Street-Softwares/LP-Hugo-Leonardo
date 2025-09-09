@@ -18,7 +18,7 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "ADVOGADO TRABALHISTA & PREVIDENCIÁRIO",
+    "miniTag": "ADVOGADO TRABALHISTA & TRABALHISTA",
     "title": "E se a sua causa tivesse <span class=\"text-primary font-bold\">mais voz?</span>",
     "subtitle": "A justiça não espera — descubra como uma defesa estratégica pode mudar o rumo da sua história.",
     "ctaButtonText": "Quero saber como",
@@ -32,7 +32,7 @@
     "subtitle": "Soluções jurídicas sob medida para proteger seus direitos.",
     "card1": {
       "title": "Direito Civil",
-      "subtitle": "Proteção em contratos, bens e relações cotidianas. ",
+      "subtitle": "Proteção de bens imóveis, atenção à saúde e relação de consumo.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
