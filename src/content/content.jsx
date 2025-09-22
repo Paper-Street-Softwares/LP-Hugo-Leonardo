@@ -60,13 +60,13 @@ export const infos = {
   domain: "hugobranco.adv.br", // Sem "www"
   phone: {
     ddd: "81",
-    firstPart: "99970", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "0740", // Apenas os 4 últimos números
+    firstPart: "97322", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "9346", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "81",
-    firstPart: "97322", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "9346", // Apenas os 4 últimos números
+    firstPart: "99970", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "0740", // Apenas os 4 últimos números
   },
   phoneTerciario: {
     ddd: "A_Definir",
